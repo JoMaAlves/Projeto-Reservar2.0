@@ -256,7 +256,7 @@ void loop() {
   } 
   
 //---------------------------------------------------------------------------------------------------------------------------------------------------------------------- 
-  //textoEntrada.remove(12,1);
+
   //Serial.println(textoEntrada.startsWith(conteudo));
   //Serial.println(textoEntrada.length());
   //Serial.print(conteudo.equals(textoEntrada));
