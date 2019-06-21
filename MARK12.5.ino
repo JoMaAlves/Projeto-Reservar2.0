@@ -261,7 +261,7 @@ void loop() {
   //Serial.println(textoEntrada.length());
   //Serial.print(conteudo.equals(textoEntrada));
   //Serial.print(conteudo.endsWith(textoEntrada));
-  if (textoEntrada.startsWith(conteudo)) //UID 1 - Chaveiro
+  if (textoEntrada.startsWith(conteudo))                         //Compara a entrada com a leitura do RFID
   {
     mensagemaprovada();
   }
